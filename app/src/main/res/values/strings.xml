@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Two</string>
+    <string name="email"> Email </string>
+    <string name="hint_name_"> Name </string>
+    <string name="name_n"> Name </string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="hint_btn_sign_up">SIGN UP</string>
+    <string name="hint_s4">Two</string>
+    <string name="hint_pass"> </string>
+    <string name="hint_cpass"> </string>
+    <string name="already">Already have an account? </string>
+    <string name="accept">Accept Terms  </string>
+    <string name="signup">SIGN UP  </string>
+
+
+    <string name="activity_profile"> o</string>
+
+</resources>
